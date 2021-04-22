@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+.header {
+    display: flex;
+    flex-direction: column;
+    margin-left: 110px;
+    margin-right: 110px;
+    padding: 0px 15px;
+
+
+}
+
+.placeholder {
+    display: flex;
+}
+
+.placeholder-none{
+    width: 33.333333333333336%;
+    margin-left: 15px;
+    margin-right: 15px;
+    min-height: 32px;
+    
+}
+.placeholder-info {
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: .106em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    width: 33.333333333333336%;
+}
+
+.navmenu {
+    width: 78.10704022988497%;
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
+.navmenu ul {
+    display: flex;
+    list-style-type: none;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.navbar-holder {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    margin-left: 110px;
+    margin-right: 110px;
+}
+
+.list-items-nav li {
+    margin: 10px 20px;
+    font-size: 15px;
+}
+
+.list-items-nav a {
+    color: #6a6a6a;
+    font-size: 15px;
+    font-family: 'Raleway', sans-serif;
+}
+
+
+.navholder-none-st {
+    width: 11.271102729885081%;
+    min-height: 32px;
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
+.navholder-none-nd {
+    width: 10.621857040229896%;
+    min-height: 32px;
+    margin-right: 15px;
+    margin-left: 15px;
+}
